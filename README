@@ -1,0 +1,7 @@
+IRIS Build handy utility
+
+1. build.bat
+------
+This file save you from enter many separate commands. 
+Usage: build.bat clean
+       build.bat
