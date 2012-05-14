@@ -13,7 +13,7 @@ set MAVEN_OPTS=-Xmx512m -XX:MaxPermSize=256m
 call :getUserHome USER_HOME
 set GRAILS_PLUGIN_HOME=%USER_HOME%\.grails\1.1.1
 set GRAILS_HOME=!GRAILS11_HOME!
-set VERSION=DEV_SPE_551_SP1-SNAPSHOT
+set VERSION=DEV_SPE_551_SP2_2-SNAPSHOT
 
 :: Prepare the common varibles
 set BASE_DIR=%cd%
